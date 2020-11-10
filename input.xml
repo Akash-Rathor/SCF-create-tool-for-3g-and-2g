@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE raml SYSTEM 'raml20.dtd'>
+<raml version="2.0" xmlns="raml20.xsd">
+  <cmData type="plan" scope="all" name="DA01384B_UMTS_LTE_update.xml">
+    <header>
+      <log dateTime="2020-10-21T03:43:38" action="created" appInfo="PlanExporter"/>
+    </header>
+    <managedObject class="ADJL" version="RNC18" distName="PLMN-PLMN/RNC-1607/WBTS-882/WCEL-88211/ADJL-0" operation="update">
+      <p name="ADJLChangeOrigin">2</p>
+      <p name="AdjLEARFCN">40072</p>
+      <p name="AdjLMeasBw">100</p>
+      <p name="AdjLSelectFreq">0</p>
+      <p name="HopLIdentifier">1</p>
+    </managedObject>
+    <managedObject class="ADJL" version="RNC18" distName="PLMN-PLMN/RNC-1607/WBTS-882/WCEL-88221/ADJL-3" operation="update">
+      <p name="ADJLChangeOrigin">2</p>
+      <p name="AdjLEARFCN">40072</p>
+      <p name="AdjLMeasBw">100</p>
+      <p name="AdjLSelectFreq">0</p>
+      <p name="HopLIdentifier">1</p>
+    </managedObject>
+    <managedObject class="ADJL" version="RNC18" distName="PLMN-PLMN/RNC-1607/WBTS-882/WCEL-88231/ADJL-3" operation="update">
+      <p name="ADJLChangeOrigin">2</p>
+      <p name="AdjLEARFCN">40072</p>
+      <p name="AdjLMeasBw">100</p>
+      <p name="AdjLSelectFreq">0</p>
+      <p name="HopLIdentifier">1</p>
+    </managedObject>
+    <managedObject class="ADJL" version="RNC18" distName="PLMN-PLMN/RNC-1607/WBTS-1384/WCEL-138411/ADJL-3" operation="update">
+      <p name="ADJLChangeOrigin">2</p>
+      <p name="AdjLEARFCN">40270</p>
+      <p name="AdjLMeasBw">100</p>
+      <p name="AdjLSelectFreq">0</p>
+      <p name="HopLIdentifier">1</p>
+    </managedObject>
+    <managedObject class="ADJL" version="RNC18" distName="PLMN-PLMN/RNC-1607/WBTS-1384/WCEL-138421/ADJL-3" operation="update">
+      <p name="ADJLChangeOrigin">2</p>
+      <p name="AdjLEARFCN">40270</p>
+      <p name="AdjLMeasBw">100</p>
+      <p name="AdjLSelectFreq">0</p>
+      <p name="HopLIdentifier">1</p>
+    </managedObject>
+    <managedObject class="ADJL" version="RNC18" distName="PLMN-PLMN/RNC-1607/WBTS-1384/WCEL-138431/ADJL-3" operation="update">
+      <p name="ADJLChangeOrigin">2</p>
+      <p name="AdjLEARFCN">40270</p>
+      <p name="AdjLMeasBw">100</p>
+      <p name="AdjLSelectFreq">0</p>
+      <p name="HopLIdentifier">1</p>
+    </managedObject>
+    <managedObject class="ADJL" version="RNC18" distName="PLMN-PLMN/RNC-1607/WBTS-1384/WCEL-138411/ADJL-7" operation="update">
+      <p name="ADJLChangeOrigin">2</p>
+      <p name="AdjLEARFCN">40072</p>
+      <p name="AdjLMeasBw">100</p>
+      <p name="AdjLSelectFreq">0</p>
+      <p name="HopLIdentifier">1</p>
+    </managedObject>
+    <managedObject class="ADJL" version="RNC18" distName="PLMN-PLMN/RNC-1607/WBTS-1384/WCEL-138421/ADJL-7" operation="update">
+      <p name="ADJLChangeOrigin">2</p>
+      <p name="AdjLEARFCN">40072</p>
+      <p name="AdjLMeasBw">100</p>
+      <p name="AdjLSelectFreq">0</p>
+      <p name="HopLIdentifier">1</p>
+    </managedObject>
+    <managedObject class="ADJL" version="RNC18" distName="PLMN-PLMN/RNC-1607/WBTS-1384/WCEL-138431/ADJL-7" operation="update">
+      <p name="ADJLChangeOrigin">2</p>
+      <p name="AdjLEARFCN">40072</p>
+      <p name="AdjLMeasBw">100</p>
+      <p name="AdjLSelectFreq">0</p>
+      <p name="HopLIdentifier">1</p>
+    </managedObject>
+    <managedObject class="ADJL" version="RNC18" distName="PLMN-PLMN/RNC-1607/WBTS-882/WCEL-88211/ADJL-7" operation="update">
+      <p name="ADJLChangeOrigin">2</p>
+      <p name="AdjLEARFCN">40270</p>
+      <p name="AdjLMeasBw">100</p>
+      <p name="AdjLSelectFreq">0</p>
+      <p name="HopLIdentifier">1</p>
+    </managedObject>
+    <managedObject class="ADJL" version="RNC18" distName="PLMN-PLMN/RNC-1607/WBTS-882/WCEL-88221/ADJL-7" operation="update">
+      <p name="ADJLChangeOrigin">2</p>
+      <p name="AdjLEARFCN">40270</p>
+      <p name="AdjLMeasBw">100</p>
+      <p name="AdjLSelectFreq">0</p>
+      <p name="HopLIdentifier">1</p>
+    </managedObject>
+    <managedObject class="ADJL" version="RNC18" distName="PLMN-PLMN/RNC-1607/WBTS-882/WCEL-88231/ADJL-7" operation="update">
+      <p name="ADJLChangeOrigin">2</p>
+      <p name="AdjLEARFCN">40270</p>
+      <p name="AdjLMeasBw">100</p>
+      <p name="AdjLSelectFreq">0</p>
+      <p name="HopLIdentifier">1</p>
+    </managedObject>
+  </cmData>
+</raml>
